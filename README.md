@@ -1,6 +1,6 @@
 # selenium-webdriver
 
-These selenium-webdriver tests run against https://stephenchou1017.github.io/scheduler react-based scheduler app.
+These selenium-webdriver tests run against https://stephenchou1017.github.io/scheduler react-based scheduler app. Test module can be found in: `main.py`.
 
 ### run selenium
 1. Pull the selenium standalone docker image: `docker pull selenium/standalone-chrome`
